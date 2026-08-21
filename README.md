@@ -57,25 +57,34 @@ Currently Learning:
 <tr>
 <td width="50%">
 
-### LimitID_Store
+🎮 LimitID Store
 
-Website top up game
+Website top up game untuk melakukan pembelian berbagai kebutuhan game secara online.
+Tech Stack
 
-**Tech:** TypeScript • MySQL • HTML • CSS • JavaScript
+TypeScript MySQL HTML CSS JavaScript
 
+<a href="https://github.com/imans7"> <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"> </a>
 </td>
-
-<td width="50%">
-
-
+<td width="50%" valign="top">
+<img src="./assets/limitid_store.png" width="100%" alt="Library Management System">
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imans7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imans7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=imans7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=imans7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+ height="180"
+ alt="Top Languages"
+/>
 </p>
+
 
 ---
 
@@ -90,7 +99,20 @@ Website top up game
 ## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imans7/imans7/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/imans7/imans7/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/imans7/imans7/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/imans7/imans7/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
