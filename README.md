@@ -94,19 +94,9 @@ TypeScript • MySQL • HTML • CSS • JavaScript
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=imans7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=imans7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
- height="180"
- alt="Top Languages"
-/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=imans7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imans7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </p>
-
-
 ---
 
 ## 🔥 GitHub Streak
@@ -121,18 +111,9 @@ TypeScript • MySQL • HTML • CSS • JavaScript
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/imans7/imans7/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/imans7/imans7/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/imans7/imans7/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imans7/imans7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imans7/imans7/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/imans7/imans7/output/github-snake.svg" alt="GitHub Contribution Snake" />
   </picture>
 </p>
 
