@@ -57,17 +57,43 @@ Currently Learning:
 <tr>
 <td width="50%">
 
-🎮 LimitID Store
+## 🚀 Featured Projects
 
-Website top up game untuk melakukan pembelian berbagai kebutuhan game secara online.
-Tech Stack
+<table>
+<tr>
 
-TypeScript MySQL HTML CSS JavaScript
-
-<a href="https://github.com/imans7"> <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"> </a>
-</td>
 <td width="50%" valign="top">
-<img src="./assets/limitid_store.png" width="100%" alt="Library Management System">
+
+<p align="center">
+  <img 
+    src="./assets/limitid-store.png"
+    width="100%"
+    alt="LimitID Store"
+  />
+</p>
+
+<h3>🎮 LimitID Store</h3>
+
+<p>
+Website top up game untuk melakukan pembelian berbagai kebutuhan game secara online.
+</p>
+
+<p>
+<b>Tech Stack:</b><br>
+TypeScript • MySQL • HTML • CSS • JavaScript
+</p>
+
+<p>
+<a href="https://github.com/imans7">
+  <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## 📊 GitHub Statistics
