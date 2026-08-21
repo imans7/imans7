@@ -163,6 +163,9 @@ UI/UX         ██████████░░░░░░░░  55%
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://discord.gg/FukQxXvX">
+  <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 </p>
 
 ---
