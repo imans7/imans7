@@ -15,7 +15,7 @@
 ## 🌙 About Me
 
 ```yaml
-Name: Iman
+Name: Moh Nurul Iman
 Education: Information Systems Student
 Role: Web Developer
 Location: Indonesia
@@ -57,47 +57,16 @@ Currently Learning:
 <tr>
 <td width="50%">
 
-### 🥐 Bakery E-Commerce
+### LimitID_Store
 
-Website toko roti dengan fitur produk, keranjang, checkout, pembayaran, dan dashboard admin.
+Website top up game
 
-**Tech:** Laravel • MySQL • HTML • CSS • JavaScript
-
-</td>
-
-<td width="50%">
-
-### 📚 Library Management System
-
-Sistem perpustakaan untuk mengelola anggota, buku, peminjaman, pengembalian, dan data perpustakaan.
-
-**Tech:** PHP • MySQL • HTML • CSS
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ✅ Livewire Task Management
-
-Aplikasi manajemen tugas dengan fitur tambah, edit, hapus, dan update status secara realtime.
-
-**Tech:** Laravel • Livewire • MySQL
+**Tech:** TypeScript • MySQL • HTML • CSS • JavaScript
 
 </td>
 
 <td width="50%">
 
-### 🌦️ Weather App
-
-Aplikasi informasi cuaca menggunakan API untuk menampilkan kondisi cuaca berdasarkan lokasi.
-
-**Tech:** HTML • CSS • JavaScript • API
-
-</td>
-</tr>
-</table>
 
 ---
 
