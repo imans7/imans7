@@ -129,12 +129,11 @@ Aplikasi informasi cuaca menggunakan API untuk menampilkan kondisi cuaca berdasa
 ## 🌱 Currently Learning
 
 ```text
-Laravel       ███████████████░░░  80%
+Laravel       ███████████████░░░  60%
 Livewire      ████████████░░░░░░  65%
 MySQL         ███████████████░░░  80%
 JavaScript    ████████████░░░░░░  65%
 UI/UX         ██████████░░░░░░░░  55%
-REST API      █████████░░░░░░░░░  50%
 ```
 
 ---
@@ -167,11 +166,7 @@ REST API      █████████░░░░░░░░░  50%
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:iman.gmoff@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
