@@ -51,11 +51,6 @@ Currently Learning:
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
 
 ## 🚀 Featured Projects
 
@@ -66,7 +61,7 @@ Currently Learning:
 
 <p align="center">
   <img 
-    src="./assets/limitid-store.png"
+    src="./assets/limitid_store.png"
     width="100%"
     alt="LimitID Store"
   />
@@ -84,7 +79,7 @@ TypeScript • MySQL • HTML • CSS • JavaScript
 </p>
 
 <p>
-<a href="https://github.com/imans7">
+<a href="https://github.com/imans7/LimitID_Store.git">
   <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
