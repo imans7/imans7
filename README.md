@@ -43,10 +43,16 @@ Currently Learning:
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,flutter,dart" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Dev Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+### 🌈 Design & UI/UX
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ---
