@@ -115,11 +115,11 @@ Sistem Absensi dan Aktivitas Mahasiswa Berbasis Gamifikasi.
 
 <p>
 <b>Tech Stack:</b><br>
-TypeScript • MySQL • HTML • CSS • JavaScript
+HTML • CSS • JavaScript
 </p>
 
 <p>
-<a href="https://github.com/imans7/LimitID_Store.git">
+<a href="https://github.com/imans7/absensi-gamifikasi">
   <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
