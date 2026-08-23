@@ -85,7 +85,7 @@ TypeScript • MySQL • HTML • CSS • JavaScript
 </p>
 
 <p>
-<a href="https://github.com/imans7/LimitID_Store.git">
+<a href="https://github.com/imans7/absensi-gamifikasi.git">
   <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -101,7 +101,7 @@ TypeScript • MySQL • HTML • CSS • JavaScript
 
 <p align="center">
   <img 
-    src="./assets/absensi-app.jpeg"
+    src="./assets/absen.png"
     width="100%"
     alt="absensi-app"
   />
