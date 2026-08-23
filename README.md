@@ -94,6 +94,40 @@ TypeScript • MySQL • HTML • CSS • JavaScript
 
 </tr>
 </table>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <img 
+    src="./assets/absensi-app.jpeg"
+    width="100%"
+    alt="absensi-app"
+  />
+</p>
+
+<h3>📊absensi-app</h3>
+
+<p>
+Sistem Absensi dan Aktivitas Mahasiswa Berbasis Gamifikasi.
+</p>
+
+<p>
+<b>Tech Stack:</b><br>
+TypeScript • MySQL • HTML • CSS • JavaScript
+</p>
+
+<p>
+<a href="https://github.com/imans7/LimitID_Store.git">
+  <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
