@@ -1,9 +1,14 @@
 # 👋 Hi, I'm Moh Nurul Iman
 
-### 🎓 Information Systems Student | 💻 Web Developer | 🎮 Gamer
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- 🔥 Fitur Keren 1: Terminal Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&height=50&lines=Information+Systems+Student;Web+Developer+%26+Gamer;Currently+Focusing+on+Laravel+%26+MySQL;Let's+build+something+awesome!" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -142,7 +147,7 @@ HTML • CSS • JavaScript
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imans7&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imans7&repo=absensi-gamifikasi&theme=tokyonight&hide_border=true" alt="Pinned Repo Card" />
 </p>
 
 ---
