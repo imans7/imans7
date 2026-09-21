@@ -167,10 +167,10 @@ HTML • CSS • JavaScript
 ## 🌱 Currently Learning
 
 ```text
-Laravel       ███████████████░░░  60%
+MySQL         ███████████████░░░  60%
 Livewire      ████████████░░░░░░  65%
-MySQL         ███████████████░░░  80%
-JavaScript    ████████████░░░░░░  65%
+JavaScript    ███████████████░░░  80%
+Laravel       ████████████░░░░░░  65%
 UI/UX         ██████████░░░░░░░░  55%
 ```
 
