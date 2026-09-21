@@ -167,7 +167,7 @@ HTML • CSS • JavaScript
 ## 🌱 Currently Learning
 
 ```text
-MySQL         ███████████████░░░  60%
+MySQL         ███████████░░░░░░░  60%
 Livewire      ████████████░░░░░░  65%
 JavaScript    ███████████████░░░  80%
 Laravel       ████████████░░░░░░  65%
